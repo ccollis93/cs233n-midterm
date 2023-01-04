@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Eliza\bin\Debug\Eliza.exe.config
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Eliza\bin\Debug\Eliza.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Eliza\bin\Debug\Eliza.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Eliza\obj\Debug\Eliza.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Eliza\obj\Debug\Eliza.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Eliza\obj\Debug\Eliza.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Eliza\obj\Debug\Eliza.pdb

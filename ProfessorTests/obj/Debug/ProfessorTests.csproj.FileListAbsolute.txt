@@ -1,0 +1,10 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\bin\Debug\ProfessorTests.exe.config
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\bin\Debug\ProfessorTests.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\bin\Debug\ProfessorTests.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\bin\Debug\ProfessorClasses.dll
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\bin\Debug\ProfessorClasses.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\obj\Debug\ProfessorTests.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\obj\Debug\ProfessorTests.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\obj\Debug\ProfessorTests.csproj.CopyComplete
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\obj\Debug\ProfessorTests.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorTests\obj\Debug\ProfessorTests.pdb

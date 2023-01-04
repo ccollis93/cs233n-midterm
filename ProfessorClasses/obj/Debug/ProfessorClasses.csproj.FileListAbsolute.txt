@@ -1,0 +1,6 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorClasses\bin\Debug\ProfessorClasses.dll
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorClasses\bin\Debug\ProfessorClasses.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorClasses\obj\Debug\ProfessorClasses.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorClasses\obj\Debug\ProfessorClasses.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorClasses\obj\Debug\ProfessorClasses.dll
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\ProfessorClasses\obj\Debug\ProfessorClasses.pdb

@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week05 MidTerm\midterm-ccollis93\MidtermWindows\Palindrome\obj\Debug\Palindrome.pdb
